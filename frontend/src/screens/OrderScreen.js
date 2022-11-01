@@ -246,7 +246,7 @@ const OrderScreen = () => {
 								) : (
 									<PayPalScriptProvider
 										options={{
-											'client-id': 'YOUR_CLIENT_ID',
+											'client-id': 'AV6wQ4DPsBwWqqSyXteOHf0htVujxG5WGdrPkj74CRysY4H_Y0FBuOk61n6qVaVQs60YYwor2cn5WEYv',
 											components: 'buttons',
 										}}>
 										<PayPalButtons
